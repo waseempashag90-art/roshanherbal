@@ -1,0 +1,16 @@
+{
+  "name": "roshan-herbal",
+  "version": "1.0.0",
+  "description": "Roshan Herbal Official Website",
+  "scripts": {
+    "build": "echo 'Static build ready'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "roshan-herbal",
+    "ecommerce",
+    "herbal"
+  ],
+  "author": "Roshan Herbal",
+  "license": "ISC"
+}
